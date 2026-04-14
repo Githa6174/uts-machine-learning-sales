@@ -16,4 +16,4 @@ Proyek ini adalah sistem prediksi numerik berbasis *Machine Learning* menggunaka
 ## 🚀 Cara Menjalankan Proyek
 1. Clone repository ini ke mesin lokal Anda:
    ```bash
-   git clone [https://github.com/](https://github.com/)Githa6174/uts-machine-learning-sales.git# uts-machine-learning-sales
+   git clone [https://github.com/](https://github.com/)Githa6174/uts-machine-learning-sales.git
